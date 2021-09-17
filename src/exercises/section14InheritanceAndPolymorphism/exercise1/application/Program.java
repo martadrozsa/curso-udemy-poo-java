@@ -1,7 +1,7 @@
-package section14InheritanceAndPolymorphism.application;
+package section14InheritanceAndPolymorphism.exercise1.application;
 
-import section14InheritanceAndPolymorphism.entities.Employee;
-import section14InheritanceAndPolymorphism.entities.OutsourcedEmployee;
+import section14InheritanceAndPolymorphism.exercise1.entities.Employee;
+import section14InheritanceAndPolymorphism.exercise1.entities.OutsourcedEmployee;
 
 import java.util.ArrayList;
 import java.util.List;

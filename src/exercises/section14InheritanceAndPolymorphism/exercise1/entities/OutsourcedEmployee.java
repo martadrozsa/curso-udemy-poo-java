@@ -1,4 +1,4 @@
-package section14InheritanceAndPolymorphism.entities;
+package section14InheritanceAndPolymorphism.exercise1.entities;
 
 public class OutsourcedEmployee extends Employee {
 
